@@ -37,9 +37,9 @@ export default {
 
 <template>
   <div>
-    <div class="mt-4 p-4 new-releases">
+    <div class="p-4 new-releases">
       <p class="mb-3 lead">
-        New Releases
+        Movies
       </p>
       <b-row>
         <b-container class="d-flex justify-content-center">
