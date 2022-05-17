@@ -18,7 +18,6 @@ export default {
     TrendingMovies,
     Movies
   },
-
   data() {
     return {
       canShowTrendingMovies: false,
@@ -31,6 +30,9 @@ export default {
         this.canShowTrendingMovies = value;
       });
     }
+  },
+  mounted() {
+    this.checkTrendingMovies();
   }
 
 }
@@ -40,7 +42,7 @@ export default {
   <main>
     <Navigation />
     <Jumbotron />
-    <TrendingMovies />
+    <TrendingMovies v-if="canShowTrendingMovies" />
     <Movies />
   </main>
 </template>
