@@ -4,7 +4,7 @@ export default {}
 
 <template>
   <div>
-    <b-jumbotron class="jumbotron" header="AcmeTV Shows" lead="Get our monthly premium plan for just $5.99 when you sign up today">
+    <b-jumbotron class="jumbotron mb-0" header="AcmeTV Shows" lead="Get our monthly premium plan for just $5.99 when you sign up today">
       <p>Access your favorite AcmeTV Shows on demand!</p>
       <b-button variant="dark" href="#">
         Sign up and start watching
