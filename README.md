@@ -7,7 +7,7 @@ This is a companion repo for [How to set up and use feature flags in a Nuxt.js A
 
  Here is what it looks like:
 
- <!-- TODO: Add snap here -->
+ <!-- TODO: Add snap here --> 
 
 ## How it works
 
