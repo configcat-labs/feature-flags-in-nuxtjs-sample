@@ -6,6 +6,8 @@ This is a companion repo for [How to set up and use feature flags in a Nuxt.js A
 This app is a fictional movie app called **AcmeTV Shows** built with the Nuxt.js framework.
 
  Here is what it looks like:
+ 
+ ![image](https://user-images.githubusercontent.com/74829200/174198630-8cd044d9-93fe-4041-bb25-567b6df0f24e.png)
 
 ## How it works
 
@@ -37,5 +39,5 @@ npm run dev
 
 ConfigCat also supports many other frameworks and languages. Check out the full list of supported SDKs [here](https://configcat.com/docs/sdk-reference/overview/)
 
-You can find ConfigCat on [Twitter](https://twitter.com/configcat), [Facebook](https://www.facebook.com/configcat), [LinkedIn](https://www.linkedin.com/company/configcat/), and [GitHub](https://github.com/configcat).
+Keep up with ConfigCat on [Twitter](https://twitter.com/configcat), [Facebook](https://www.facebook.com/configcat), [LinkedIn](https://www.linkedin.com/company/configcat/), and [GitHub](https://github.com/configcat).
 
