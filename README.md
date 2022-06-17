@@ -15,7 +15,6 @@ The body of the app contains a **Trending Movies** and a **Movies** section.
 
 In the companion article, I integrated feature flagging using [ConfigCat's](https://configcat.com/) feature flag services. This allowed me to show / hide the **Trending Movies** section by toggling its feature flag in my ConfigCat dashboard.
 
-
 ## References
 
 ConfigCat also supports many other frameworks and languages. Check out the full list of supported SDKs [here](https://configcat.com/docs/sdk-reference/overview/)
