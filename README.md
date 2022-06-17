@@ -1,9 +1,9 @@
 # feature-flags-in-nuxtjs-sample
-This is a companion repo for [How to set up and use feature flags in a Nuxt.js Application]('https://configcat.com')
+This is a companion repo for **How to set up and use Feature Flags in a Nuxt.js Application**
 
 ## About this sample app
 
-This app is a fictional movie app called **AcmeTV Shows** built with the Nuxt.js framework.
+This app is a fictional movie app called **AcmeTV Shows** built with the Nuxt.js framework
 
  Here is what it looks like:
  
@@ -21,7 +21,7 @@ In the companion article, I integrated feature flagging using [ConfigCat's](http
 
 1. Clone this code repository
 
-2. Open a terminal in the root of the project
+2. Open a terminal in the root of this repo
 
 3. Install the required npm packages by running:
 
@@ -37,7 +37,7 @@ npm run dev
 
 ## References
 
-ConfigCat also supports many other frameworks and languages. Check out the full list of supported SDKs [here](https://configcat.com/docs/sdk-reference/overview/)
+**ConfigCat** also supports many other frameworks and languages. Check out the full list of supported SDKs [here](https://configcat.com/docs/sdk-reference/overview/)
 
 Keep up with ConfigCat on [Twitter](https://twitter.com/configcat), [Facebook](https://www.facebook.com/configcat), [LinkedIn](https://www.linkedin.com/company/configcat/), and [GitHub](https://github.com/configcat).
 
