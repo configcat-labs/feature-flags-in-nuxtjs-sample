@@ -1,5 +1,5 @@
 # feature-flags-in-nuxtjs-sample
-This is a companion repo for **How to set up and use Feature Flags in a Nuxt.js Application**
+This is a companion repo for [**How to set up and use Feature Flags in a Nuxt.js Application**](https://configcat.com/blog/2022/07/01/how-to-use-feature-flags-in-nuxtjs/)
 
 ## About this sample app
 
@@ -35,9 +35,16 @@ npm install
 npm run dev
 ```
 
-## References
+## Author
+[Chavez Harris](https://github.com/codedbychavez)
 
+## Contributions
+Contributions are welcome!
+
+## References
 **ConfigCat** also supports many other frameworks and languages. Check out the full list of supported SDKs [here](https://configcat.com/docs/sdk-reference/overview/)
 
 Keep up with ConfigCat on [Twitter](https://twitter.com/configcat), [Facebook](https://www.facebook.com/configcat), [LinkedIn](https://www.linkedin.com/company/configcat/), and [GitHub](https://github.com/configcat).
+
+Learn more about Nuxt.js [here](https://nuxtjs.org)
 
