@@ -1,4 +1,5 @@
-# feature-flags-in-nuxtjs-sample
+# How to set up and use Feature Flags in a Nuxt.js Application
+
 This is a companion repo for [**How to set up and use Feature Flags in a Nuxt.js Application**](https://configcat.com/blog/2022/07/01/how-to-use-feature-flags-in-nuxtjs/).
 
 ## About this sample app
