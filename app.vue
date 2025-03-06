@@ -1,5 +1,7 @@
 <template>
-  <div>
+  <div class="app">
     <Jumbotron />
+    <TrendingMovies />
+    <Movies />
   </div>
 </template>

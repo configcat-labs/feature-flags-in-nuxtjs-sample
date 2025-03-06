@@ -1,1 +1,28 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
+
+.section {
+    padding: 50px;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.movie-cards {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 1rem;
+}
+
+.movie-card {
+    max-width: 320px;
+}
+
+.movie-tags .tag + .tag {
+    margin-left: 12px;
+}
+
+.movie-tags .tag {
+    background-color: #F7CE68;
+    padding: 2px 4px;
+    border-radius: 3px;
+}

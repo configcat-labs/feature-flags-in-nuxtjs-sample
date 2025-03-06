@@ -1,9 +1,9 @@
 <template>
 
-  <div class="jumbotron p-5 mb-4 rounded-3">
-    <div class="container-fluid py-5">
+  <div class="jumbotron p-5 mb-4">
+    <div class="container-fluid py-5 text-center">
       <h1 class="display-5 fw-bold">AcmeTV Shows</h1>
-      <p class="col-md-8 fs-4">Get our monthly premium plan for just $5.99 when you sign up today</p>
+      <p class="fs-4">Get our monthly premium plan for just $5.99 when you sign up today</p>
       <p>Access your favorite AcmeTV shows on demand!</p>
       <button class="jumbotron-button btn btn-lg" type="button">Sign up and start watching</button>
     </div>
