@@ -1,5 +1,5 @@
 <template>
-  <div class="section movies">
+  <div class="section movies bg-body-tertiary">
     <h2 class="title">
       Movies
     </h2>
