@@ -1,53 +1,75 @@
-# How to set up and use Feature Flags in a Nuxt.js Application
+# Nuxt Minimal Starter
 
-This is a companion repo for [**How to set up and use Feature Flags in a Nuxt.js Application**](https://configcat.com/blog/2022/07/01/how-to-use-feature-flags-in-nuxtjs/).
+Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
-## About this sample app
+## Setup
 
-This app is a fictional movie app called **AcmeTV Shows** built with the Nuxt.js framework
-
- Here is what it looks like:
- 
- ![image](https://user-images.githubusercontent.com/74829200/174198630-8cd044d9-93fe-4041-bb25-567b6df0f24e.png)
-
-## How it works
-
-The body of the app contains two sections:
-1. **Trending Movies** section
-2. **Movies** section
-
-In the companion article, I integrated feature flagging using [ConfigCat's](https://configcat.com/) feature flag services. This allowed me to show / hide the **Trending Movies** section by toggling its feature flag in my ConfigCat dashboard.
-
-## How to run the App
-
-1. Clone this code repository
-
-2. Open a terminal in the root of this repo
-
-3. Install the required npm packages by running:
+Make sure to install dependencies:
 
 ```bash
+# npm
 npm install
+
+# pnpm
+pnpm install
+
+# yarn
+yarn install
+
+# bun
+bun install
 ```
 
-4. Start the app locally by running:
+## Development Server
+
+Start the development server on `http://localhost:3000`:
 
 ```bash
+# npm
 npm run dev
+
+# pnpm
+pnpm dev
+
+# yarn
+yarn dev
+
+# bun
+bun run dev
 ```
 
-## Author
-[Chavez Harris](https://github.com/codedbychavez)
+## Production
 
-## Contributions
-Contributions are welcome!
+Build the application for production:
 
-## References
-**ConfigCat** also supports many other frameworks and languages. Check out the full list of supported SDKs [here](https://configcat.com/docs/sdk-reference/overview/)
+```bash
+# npm
+npm run build
 
-Keep up with ConfigCat on [Twitter](https://twitter.com/configcat), [Facebook](https://www.facebook.com/configcat), [LinkedIn](https://www.linkedin.com/company/configcat/), and [GitHub](https://github.com/configcat).
+# pnpm
+pnpm build
 
-You can also explore other code samples for various languages, frameworks, and topics here in the [ConfigCat labs](https://github.com/configcat-labs) on GitHub.
+# yarn
+yarn build
 
-Learn more about Nuxt.js [here](https://nuxtjs.org).
+# bun
+bun run build
+```
 
+Locally preview production build:
+
+```bash
+# npm
+npm run preview
+
+# pnpm
+pnpm preview
+
+# yarn
+yarn preview
+
+# bun
+bun run preview
+```
+
+Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.

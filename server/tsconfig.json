@@ -1,0 +1,3 @@
+{
+  "extends": "../feature-flags-in-nuxtjs-sample/.nuxt/tsconfig.server.json"
+}

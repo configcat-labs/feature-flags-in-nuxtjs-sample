@@ -1,0 +1,17 @@
+{
+  "date": "2025-03-07T19:17:04.399Z",
+  "preset": "nitro-dev",
+  "framework": {
+    "name": "nuxt",
+    "version": "3.15.4"
+  },
+  "versions": {
+    "nitro": "2.11.0"
+  },
+  "dev": {
+    "pid": 3467,
+    "workerAddress": {
+      "socketPath": "/Users/codedbychavez/repos/configcat/feature-flags-in-nuxtjs-sample/.nuxt/dev/worker-3467-1-1.sock"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "_hash": "tTthGNr1ucNEnGdx2c56jIdvOixdq4N-aJL9ECxE4EI",
+  "project": {
+    "rootDir": "/Users/codedbychavez/repos/configcat/feature-flags-in-nuxtjs-sample"
+  },
+  "versions": {
+    "nuxt": "3.15.4"
+  }
+}
